@@ -1,0 +1,30 @@
+[{
+  "Algor1.+PCA iris": 0.0504,
+  "Algor2.+PCA iris": 0.0498,
+  "Algor3.+PCA iris": 0.0503,
+
+  "Algor1. iris": 0.0513,
+  "Algor2. iris": 0.0500,
+  "Algor3. iris": 0.0501,
+
+  "knn (k=3) iris": 0.00039997895558675133,
+  "knn (k=7) iris": 0.0004667202631632487,
+  "knn (k=10) iris": 0.0005002737045288086,
+  "SVM iris": 0.0001666704813639323,
+  "Decision Tree iris": 0.00010002454121907553,
+  },
+  {
+  "Algor1. wine": 0.0468,
+  "Algor2. wine": 0.0467,
+  "Algor3. wine": 0.0462,
+
+  "Algor1.+PCA wine": 0.0481,
+  "Algor2.+PCA wine": 0.0478,
+  "Algor3.+PCA wine": 0.0473,
+
+  "knn (k=3) wine": 0.0004725592476981027,
+  "knn (k=7) wine": 0.00042858123779296873,
+  "knn (k=10) wine": 0.00042704854692731585,
+  "SVM wine": 0.00017136165073939732,
+  "Decision Tree wine": 0.000008575575692313059
+}]

@@ -1,0 +1,90 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+env/
+
+# =========================
+# IDE / OS
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# YOLO / training outputs
+# =========================
+runs/
+weights/
+wandb/
+logs/
+
+# trained model files
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+*.pb
+*.mlmodel
+*.torchscript
+
+# =========================
+# Dataset / generated images
+# =========================
+datasets/
+data/
+images/
+labels/
+
+# your generated folders
+out_strip/
+out_strip_label/
+out_strip_label2/
+out_strip_label3/
+out_strip2/
+out_strip3/
+
+output_k_fold/
+output_k_fold2/
+output_k_fold3/
+
+output_crop_path/
+output_path/
+output_kfold_data.json
+output_strip_label_map.txt
+output_strip_label_map2.txt
+
+backup_beast_cancer_train_and_kfold_pca2/
+backup_beast_cancer_train_and_kfold2/
+backup_iris_train_and_kfold_pca2/
+backup_iris_train_and_kfold2/
+backup_student_train_and_kfold_pca2/
+backup_student_train_and_kfold2/
+backup_wine_train_and_kfold_pca2/
+backup_wine_train_and_kfold2/
+
+detect_out_crop/
+detect_out/
+
+strip_pre.py
+
+# =========================
+# Large data files
+# =========================
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.csv
+*.xlsx
+*.jsonl
