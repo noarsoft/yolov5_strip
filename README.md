@@ -159,3 +159,26 @@ Extending YOLO for Feature-Based Classification via Numerical-to-Image Transform
 IEA/AIE 2025.
 Springer.
 ```
+
+
+References
+Africa, A.D., Velasco, J.: Development of a urine strip analyzer using artificial neural network using an android phone. ARPN Journal of Engineering and Applied Sciences 12, 1706–1713 (03 2017)
+Bochkovskiy, A., Wang, C.Y., Liao, H.Y.M.: Yolov4: Optimal speed and accuracy of object detection. ArXiv abs/2004.10934 (2020), https://api.semanticscholar.org/CorpusID:216080778
+Cortes, C., Vapnik, V.: Support-vector networks. Machine learning 20(3), 273–297 (1995)
+Cortez, Paulo Cerdeira A. Almeida F., M.T., J., R.: Wine Quality. UCI Machine Learning Repository (2009)
+Cover, T., Hart, P.: Nearest neighbor pattern classification. IEEE Transactions on Information Theory 13(1), 21–27 (1967)
+El Ghmary, M., Ouassine, Y., Ouacha, A.: License Plate Character Recognition System Using YOLOv5, pp. 588–594 (03 2023)
+Fisher, R.A.: Iris. UCI Machine Learning Repository (1936)
+Jocher, G.: Ultralytics yolov5 (2020), https://github.com/ultralytics/yolov5
+Kim, S.C., Cho, Y.S.: Predictive system implementation to improve the accuracy of urine self-diagnosis with smartphones: Application of a confusion matrix-based learning model through rgb semiquantitative analysis. Sensors 22, 5445 (07 2022)
+Mishra, S., Sarkar, U., Taraphder, S., Datta, S., Swain, D., Saikhom, R., Panda, S., Laishram, M.: Principal component analysis. International Journal of Livestock Research p. 1 (01 2017)
+Ng, W.K., Choi, S., Ravishankar, C.: Lossless and lossy data compression (06 1998)
+Pei, C.: Research on the influencing factors of student performance. Theoretical and Natural Science 51, 26–33 (09 2024). https://doi.org/10.54254/2753-8818/51/2024CH0131
+Ragab, M., Jadid Abdulkadir, S., Muneer, A., Alqushaibi, A., Sumiea, E., Qureshi, R., Al-Selwi, S., Alhussian, H.: A comprehensive systematic review of yolo for medical object detection (2018 to 2023). IEEE Access PP, 1–1 (01 2024)
+Rajpurkar, P., Hannun, A.Y., Haghpanahi, M., Bourn, C., Ng, A.Y.: Cardiologist-level arrhythmia detection with convolutional neural networks (2017), https://arxiv.org/abs/1707.01836
+Raza, A., Shaikh, M., Siddiqui, O., Ali, A., Khan, A.: Enhancing agricultural pest management with yolo v5: A detection and classification approach. UMT Artificial Intelligence Review 3 (12 2023)
+Redmon, J., Divvala, S., Girshick, R., Farhadi, A.: You only look once: Unified, real-time object detection. In: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). pp. 779–788 (2016)
+Redmon, J., Farhadi, A.: Yolov3: An incremental improvement. ArXiv abs/1804.02767 (2018), https://api.semanticscholar.org/CorpusID:4714433
+Wolberg, William, M.O.S.N., Street, W.: Breast Cancer Wisconsin (Diagnostic). UCI Machine Learning Repository (1993), DOI: https://doi.org/10.24432/C5DW2B
+Wu, X., Kumar, V., Quinlan, J.R., Ghosh, J., Yang, Q., Motoda, H., McLachlan, G.J., Ng, A., Liu, B., Philip, S.Y., et al.: Top 10 algorithms in data mining. Knowledge and information systems 14(1), 1–37 (2008)
+Zhang, Y., Guo, Z., Wu, J., Tian, Y., Tang, H., Guo, X.: Real-time vehicle detection based on improved yolo v5. Sustainability 14, 12274 (09 2022)
